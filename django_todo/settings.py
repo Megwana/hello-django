@@ -32,7 +32,7 @@ yd%j4sg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hello-django-meg.herokuapp.com']
 
 
 # Application definition
